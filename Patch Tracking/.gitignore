@@ -1,0 +1,5 @@
+data/
+object_detector_weights/
+runs/
+traced_model.pt
+
